@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Pacifico&display=swap');
+.feature{
+  width:28vw;
+  font-size: 20px;
+  height:5vh;
+  color:white;
+  background-color: rgb(252, 252, 41);
+  font-weight:600;
+  font-family: 'Pacifico', cursive;
+}
+.mobile{
+  width:18vw;
+  font-size:200px;
+  height:30vh;
+  background: skyblue;
+  color:white;
+  transition:color 0.5s;
+  text-align: center;
+  vertical-align: top;
+}
+.mobile:hover{
+  color:black;
+}
+table,td{
+  border:2px solid black;
+  border-collapse: collapse;
+}
